@@ -26,17 +26,3 @@
 
 </div>
 
-<div style="background-color: #000; border: 2px solid #444; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; gap: 15px;">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=epa-fe-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=epa-fe-001&theme=dark&hide_border=false" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epa-fe-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mikey2504&icon=0&color=0)](https://visitcount.itsvg.in)
