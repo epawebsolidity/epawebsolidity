@@ -8,21 +8,7 @@ Full Stack Development – focusing on Smart Contract technology, frontend, and 
 🤝 **I’m looking to collaborate on**:  
 Web Development Projects – open to working with other developers on real-world solutions.
 
-📫 **How to reach me**:
-- 📧 [Gmail](https://mail.google.com/mail/u/0/#inbox)
-- 💼 [LinkedIn](https://www.linkedin.com/in/Mohsen-malekifard)
-  <br>
-  <a href="https://www.linkedin.com/in/Mohsen-malekifard" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-📄 **Know more about me**:
-- [📝 My Resume](https://github.com/Mohsen-malekifard)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohsen-malekifard&style=for-the-badge)
-
 
 ## Languages and Tools:
 <div style="background-color: #000; border: 2px solid #444; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
