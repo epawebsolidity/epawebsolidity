@@ -1,3 +1,10 @@
+<h1 align="center" margin-bottom="10px">Hi, I'm Mohsen 👋</h1>
+🌱 I’m currently learning Full Stack Development going forward with my goals:
+👨‍💻 I’m looking to collaborate on Web-Development Projects:
+📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  <a href="https://github.com/Mohsen-malekifard" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+📄 Know about my experiences Click Here [My Resume](https://github.com/Mohsen-malekifard): 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mohsen-malekifard)
 ## Languages and Tools:
 <div style="background-color: #000; border: 2px solid #444; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Tech Stack Badges -->
